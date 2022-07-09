@@ -42,10 +42,12 @@
     /* background-image: url("/assets/bg/img4.jpg"); */
 }
 .panel1{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-around;
+        height: 100vh;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
 }
 .content {
     color: #fff;
